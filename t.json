@@ -10,7 +10,6 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 
 "sites":[
-//{"key": "csp_Kmys","name": "🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"酷猫","name":"🐱酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -75,8 +74,6 @@
 
 
 {"key":"csp_biubiu_4K电影网","name":"😄4K电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/25772/4K%E7%94%B5%E5%BD%B1%E7%BD%910718.json?sign=8F8q-3VyMg6Ycjzdbcjj-N4dTHfKPvNNNsyQ6NuXuj8%3D%3A0"},
-
-//{"key": "戏曲","name": "🅰️戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/23892/%E6%88%8F%E6%9B%B20717.json?sign=-ndWwBOleBs27eRsq6CF4jqxHrDm9-Ctk1xj6hA1Ntc%3D%3A0"},
 
 
 {"key":"csp_biubiu_完美看看影视","name":"🍉完美看看(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23196/%E5%AE%8C%E7%BE%8E%E7%9C%8B%E7%9C%8B0716.json?sign=FiajNNR4hRnG2lCopJ6NHW6J9LV8AxLATB54b50g_Kg%3D%3A0"},
