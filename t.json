@@ -1,23 +1,3 @@
-// 根目录配置地址 --> clan://localhost/吾爱.txt
-
-//微信公众号【吾爱有三日月与卿】整理分享，关注公众号回复【接口】或【TV】获取更多
-
-//外链http://gg.gg/TVBOX-Pro-1
-//请自行下载外链文件备份，外链下载命名为txt后缀
-
-//打造属于自己的app
-//https://mp.weixin.qq.com/s?__biz=Mzg5NDA2NDQyMg==&mid=2247499874&idx=1&sn=cdef93cd97c20746daffd9f61143fafa&chksm=c027c22bf7504b3d9b12e358d5a8db08c1165e90101ca47d1b1b7042cb0690ef467fee289dfa#rd
-
-//【视频教学】TVBox如何制作内置接口？
-//https://www.bilibili.com/video/BV1ST411u7ss/
-
-//【教学】TVBox如何创建演唱会的源？
-//https://mp.weixin.qq.com/s/EJyjIqv2851-Mfky--_ilQ
-
-//【教学】TVBox建库——late121314.txt 诞生记（比邻已废，可以用其他支持在线编辑的网盘）
-//
-//https://mp.weixin.qq.com/s/pGB1JJ0u_n4PF50lu8RtRg
-//搜索加群第一时间了解最新消息：https://jq.qq.com/?_wv=1027&k=Ml8bJRFQ 
 {
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
@@ -65,21 +45,17 @@
 
 {"key":"csp_Wmkk","name":"🔭完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
-//{"key":"csp_QQ","name":"🐧吾爱鹅鹅(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-//{"key":"csp_MGTV","name":"🍋吾爱太忙(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key": "小宝影院","name": "小宝影院", "type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1,"plugin":"https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar"},
 
 {"key": "小熊","name": "🦄小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
-{"key":"293视频","name":"🌈公众号：吾爱有三日月与卿293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"293视频","name":"🌈293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 
 {"key":"csp_biubiu_555电影","name":"5️⃣555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXB/555dy 0713.json"},
 
-{"key": "Kunyu77","name": "👒吾爱七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kunyu77","name": "👒七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_hbys","name":"🐞吾爱简影","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
+{"key":"csp_hbys","name":"🐞简影","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
 
 {"key":"csp_GitCafe","name":"小纸条影视","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 
@@ -100,100 +76,82 @@
 	"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bdys.json"
     },
     
-//{"key": "Bili","name": "🅱️吾爱哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/23609/%E5%93%94%E5%93%A90718.json?sign=-tbhCFEJUv2OeReBJgYI1hWqXJZWw1Qv9lURHlzSLnQ%3D%3A0"},
-
-//{"key": "演唱会","name": "🌈吾爱演唱会(需新增歌星到QQ频道“吾爱有三日月与卿”反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/23197/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90716.json?sign=sd8UCZRLgG3kR4GIV9bFKvqbGe8XjllrHF5nn0nNp_I%3D%3A0"},
-
-//如果启用0719JAR,以下三个才能启用，否则无效
-//{"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
-//{"key": "戏曲","name": "🅰️戏曲套餐","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "演唱会","name": "🅰️演唱会套餐","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
 
-{"key":"9E03","name":"🌏吾爱9E03","type": 3, "api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"    },
+{"key":"9E03","name":"🌏9E03","type": 3, "api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"    },
 
 
-{"key": "Kuaikan","name": "👀吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kuaikan","name": "👀快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
-{"key":"csp_SP360","name":"🍉吾爱360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"🍉360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_biubiu_厂长资源-蓝光","name":"💎吾爱厂长蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23888/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89%200718.json?sign=aioNTvp9XCMoAqFxDUS56HYSEH0zUh9TAN7ol2gzJPo%3D%3A0"},
-
-
-{"key":"csp_biubiu_影视工厂","name":"🌈公众号：吾爱有三日月与卿","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/156/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%820713.json?sign=HGEmNq-oMjau3V4XJGThOO7FIs8O5Ijl6EB7V3XlWDc%3D%3A0"},
+{"key":"csp_biubiu_厂长资源-蓝光","name":"💎厂长蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23888/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89%200718.json?sign=aioNTvp9XCMoAqFxDUS56HYSEH0zUh9TAN7ol2gzJPo%3D%3A0"},
 
 
-{"key":"csp_biubiu_剧白白-蓝光","name":"🍭吾爱白白蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23194/%E5%89%A7%E7%99%BD%E7%99%BD0716.json?sign=_H8BjrnJhDnu4Bx0QtVjtieHsU_MMCwhDpojTyBfgQk%3D%3A0"},
+{"key":"csp_biubiu_影视工厂","name":"🌈影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/156/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%820713.json?sign=HGEmNq-oMjau3V4XJGThOO7FIs8O5Ijl6EB7V3XlWDc%3D%3A0"},
+
+
+{"key":"csp_biubiu_剧白白-蓝光","name":"🍭白白蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23194/%E5%89%A7%E7%99%BD%E7%99%BD0716.json?sign=_H8BjrnJhDnu4Bx0QtVjtieHsU_MMCwhDpojTyBfgQk%3D%3A0"},
 
 
 {"key":"csp_biubiu_4K电影网","name":"😄4K电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/25772/4K%E7%94%B5%E5%BD%B1%E7%BD%910718.json?sign=8F8q-3VyMg6Ycjzdbcjj-N4dTHfKPvNNNsyQ6NuXuj8%3D%3A0"},
 
-//{"key": "戏曲","name": "🅰️吾爱戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/23892/%E6%88%8F%E6%9B%B20717.json?sign=-ndWwBOleBs27eRsq6CF4jqxHrDm9-Ctk1xj6hA1Ntc%3D%3A0"},
+//{"key": "戏曲","name": "🅰️戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/23892/%E6%88%8F%E6%9B%B20717.json?sign=-ndWwBOleBs27eRsq6CF4jqxHrDm9-Ctk1xj6hA1Ntc%3D%3A0"},
 
 
-{"key":"csp_biubiu_完美看看影视","name":"🍉吾爱完美看看(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23196/%E5%AE%8C%E7%BE%8E%E7%9C%8B%E7%9C%8B0716.json?sign=FiajNNR4hRnG2lCopJ6NHW6J9LV8AxLATB54b50g_Kg%3D%3A0"},
+{"key":"csp_biubiu_完美看看影视","name":"🍉完美看看(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23196/%E5%AE%8C%E7%BE%8E%E7%9C%8B%E7%9C%8B0716.json?sign=FiajNNR4hRnG2lCopJ6NHW6J9LV8AxLATB54b50g_Kg%3D%3A0"},
 
 
-{"key":"csp_biubiu_在线之家","name":"🏠吾爱在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/131/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B60714.json?sign=oZLLkoVrc4nHPpNMMkmxPKdljvWYfIvm8-UeFsEGc0w%3D%3A0"},
+{"key":"csp_biubiu_在线之家","name":"🏠在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/131/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B60714.json?sign=oZLLkoVrc4nHPpNMMkmxPKdljvWYfIvm8-UeFsEGc0w%3D%3A0"},
 
-{"key": "厂长影视","name": "⭐️吾爱厂长","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "厂长影视","name": "⭐️厂长","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "小苹果","name": "🍎吾爱小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "小苹果","name": "🍎小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "Ikan","name": "✨吾爱爱看(🐞)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Ikan","name": "✨爱看(🐞)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "Cokemv","name": "📺吾爱Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Cokemv","name": "📺Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "Auete","name": "🐼吾爱Auete(SP)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Auete","name": "🐼Auete(SP)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"mjxq_spider","name":"🌏吾爱美剧(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mjxq_spider","name":"🌏美剧(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "AliPS","name": "🐱吾爱盘搜(只支持搜索)","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
-{"key": "Gitcafe","name": "📜吾爱小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
-{"key": "push_agent","name": "🍭吾爱推送（阿里）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
+{"key": "AliPS","name": "🐱盘搜(只支持搜索)","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
+{"key": "Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
+{"key": "push_agent","name": "🍭推送（阿里）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
 
+{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/29456/713-qiumi.js?sign=wXW4juULRqW1mqF8F3mmoMuY1WgdKOQYu8zLF3xRKUQ%3D%3A0"},
 
-{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️吾爱球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/29456/713-qiumi.js?sign=wXW4juULRqW1mqF8F3mmoMuY1WgdKOQYu8zLF3xRKUQ%3D%3A0"},
+{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23903/%E6%96%97%E9%B1%BC0718.json?sign=c1Mhuc5HJqM2ib8sB4ILuULkzpyhlYLsTS4Ixg4sjmc%3D%3A0"},
 
+{"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.css.lc/api/v3/file/get/23902/%E8%99%8E%E7%89%990718.json?sign=b2vezHEY8zsaW1jJdyw8IRxtXWDpRrh1axm4xhgsvp8%3D%3A0"},
 
-{"key":"csp_biubiu_斗鱼","name":"🐬吾爱斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23903/%E6%96%97%E9%B1%BC0718.json?sign=c1Mhuc5HJqM2ib8sB4ILuULkzpyhlYLsTS4Ixg4sjmc%3D%3A0"},
+{"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_xpath_huya","name":"🐯吾爱虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.css.lc/api/v3/file/get/23902/%E8%99%8E%E7%89%990718.json?sign=b2vezHEY8zsaW1jJdyw8IRxtXWDpRrh1axm4xhgsvp8%3D%3A0"},
+{"key":"csp_biubiu_特狗影视","name":"🐶特狗","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/179/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%860713.json?sign=5lgvn7wHhVHxHlnK-94Q9IY9KIOzcL-oPEjNdDt4KvE%3D%3A0"},
 
-{"key":"csp_Bttoo","name":"🍷吾爱两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "555电影","name": "🍉555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/54/555dy%200713.json?sign=5OFptFBqOHbizj_-K6pwdym66Fj7TbjcTCJ0zhSrobw%3D%3A0"},
 
-{"key":"csp_biubiu_特狗影视","name":"🐶吾爱特狗","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/179/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%860713.json?sign=5lgvn7wHhVHxHlnK-94Q9IY9KIOzcL-oPEjNdDt4KvE%3D%3A0"},
+{"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💥真不卡(不支持搜索)(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23200/%E7%9C%9F%E4%B8%8D%E5%8D%A10717.json?sign=x7bFb31gi1sneaa-uIPu8d6aJf4h13jCr5qGroaURgo%3D%3A0"},
 
-{"key": "555电影","name": "🍉吾爱555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/54/555dy%200713.json?sign=5OFptFBqOHbizj_-K6pwdym66Fj7TbjcTCJ0zhSrobw%3D%3A0"},
+{"key":"csp_biubiu_达达龟","name":"🍊 达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23199/%E8%BE%BE%E8%BE%BE%E9%BE%9F0717.json?sign=utI4Ocn2eXH3afPTQ45RLFoT_0hh8YDHCB5mKW8idNM%3D%3A0"},
 
+{"key":"csp_biubiu_风车动漫","name":"🌙风车动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23893/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB0717.json?sign=w8QRx54mINArWNS1qEVqevHuW_oEjxeBXjPjZ9-3MFw%3D%3A0"},
 
-{"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💥吾爱真不卡(不支持搜索)(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23200/%E7%9C%9F%E4%B8%8D%E5%8D%A10717.json?sign=x7bFb31gi1sneaa-uIPu8d6aJf4h13jCr5qGroaURgo%3D%3A0"},
-
-
-
-{"key":"csp_biubiu_达达龟","name":"🍊 吾爱达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23199/%E8%BE%BE%E8%BE%BE%E9%BE%9F0717.json?sign=utI4Ocn2eXH3afPTQ45RLFoT_0hh8YDHCB5mKW8idNM%3D%3A0"},
-
+{"key":"csp_biubiu_OmoFun动漫","name":"👑OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23198/OMOFUN%E5%8A%A8%E6%BC%AB0717.json?sign=E5oirbysYS6klsTrnFbTae61tWkE6qHQRCALnG-qYPA%3D%3A0"},
 
 
-{"key":"csp_biubiu_风车动漫","name":"🌙吾爱风车动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23893/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB0717.json?sign=w8QRx54mINArWNS1qEVqevHuW_oEjxeBXjPjZ9-3MFw%3D%3A0"},
-
-{"key":"csp_biubiu_OmoFun动漫","name":"👑吾爱OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/23198/OMOFUN%E5%8A%A8%E6%BC%AB0717.json?sign=E5oirbysYS6klsTrnFbTae61tWkE6qHQRCALnG-qYPA%3D%3A0"},
+{"key":"csp_biubiu_森屋新番","name":"💋森屋新番(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/29525/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json?sign=Lu6GNnbDoaHNuDJfp2fyavGuLSXtoEwQddF7pkKWUCo%3D%3A0"},
 
 
-{"key":"csp_biubiu_森屋新番","name":"💋吾爱森屋新番(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/29525/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json?sign=Lu6GNnbDoaHNuDJfp2fyavGuLSXtoEwQddF7pkKWUCo%3D%3A0"},
+{"key":"csp_xpath_akmeiju","name":"❄️美剧(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/29458/%E7%88%B1%E7%9C%8B%E7%BE%8E%E5%89%A7.json?sign=NVVvDkItYEB1d5swv4rgeTIKmOzRAk5FRkGn7b5TU98%3D%3A0"},
 
+{"key":"csp_biubiu_骚火电影","name":"🔥骚火(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/215/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B10713.json?sign=R3gR3d4HknEk0Zf6nIblIJcTZpFsbrx-qW0wkneBjfo%3D%3A0"},
 
-{"key":"csp_xpath_akmeiju","name":"❄️吾爱美剧(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/29458/%E7%88%B1%E7%9C%8B%E7%BE%8E%E5%89%A7.json?sign=NVVvDkItYEB1d5swv4rgeTIKmOzRAk5FRkGn7b5TU98%3D%3A0"},
+{"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/80/LIBVIO0713.json?sign=B5RhrUCPtU8SjhEfXQVM7zvsUjPI2CfVjL8Z8lx4LB0%3D%3A0"},
 
-
-
-{"key":"csp_biubiu_骚火电影","name":"🔥吾爱骚火(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/215/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B10713.json?sign=R3gR3d4HknEk0Zf6nIblIJcTZpFsbrx-qW0wkneBjfo%3D%3A0"},
-
-{"key":"csp_biubiu_LIBVIO","name":"🔷吾爱LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/80/LIBVIO0713.json?sign=B5RhrUCPtU8SjhEfXQVM7zvsUjPI2CfVjL8Z8lx4LB0%3D%3A0"},
-
-{"key":"csp_biubiu_大米星球","name":"⭐️吾爱大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/133/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%830713.json?sign=HiQA41U_ZUrCG99Blus5UL00c-eCShlwkcAsfRcRvUU%3D%3A0"},
+{"key":"csp_biubiu_大米星球","name":"⭐️大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/133/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%830713.json?sign=HiQA41U_ZUrCG99Blus5UL00c-eCShlwkcAsfRcRvUU%3D%3A0"},
 
 {"key": "Bili","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"},
 {"key": "演唱会","name": "🅰️云星演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/演唱会.json"},
@@ -203,7 +161,7 @@
 {"key": "M","name": "(新增哔哩bli套餐内容请到： 云星日记 频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "/"},
 
 
-{"key": "Bili","name": "🅱️吾爱哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/23609/%E5%93%94%E5%93%A90718.json?sign=-tbhCFEJUv2OeReBJgYI1hWqXJZWw1Qv9lURHlzSLnQ%3D%3A0"}
+{"key": "Bili","name": "🅱️哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.css.lc/api/v3/file/get/23609/%E5%93%94%E5%93%A90718.json?sign=-tbhCFEJUv2OeReBJgYI1hWqXJZWw1Qv9lURHlzSLnQ%3D%3A0"}
 
 ],
 
