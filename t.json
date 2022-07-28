@@ -3,22 +3,7 @@
 
 "wallpaper": "https://api.yimian.xyz/img?type=wallpaper",
 
-//"spider":"https://pan.css.lc/api/v3/file/get/60621/XC0720.jar?sign=IIi-3Cwny2BZb55X_Yg5S8bz_p0hiakP6tpIXIHNUAo%3D%3A0", 
-
-//0712JAR
-"spider":"clan://TVBox/jar/0712.jar",
-
-//0719JAR
-"spider":"clan://TVBox/jar/0719.jar",
-
-//0720JAR
-"spider":"clan://TVBox/jar/0720.jar",
-
-//0721JAR
-"spider":"clan://TVBox/jar/0721.jar",
-
-//0792JAR
-"spider":"clan://TVBox/jar/0792.jar",
+"spider":"https://gitea.com/guozu616/box/raw/branch/main/jar/0724.jar", 
 
 //0722JAR
 "spider":"clan://TVBox/jar/0722.jar",
