@@ -36,6 +36,10 @@
       "type_name": "儿童",
       "type_id": "儿童"
     }
+     {
+      "type_name": "专升本",
+      "type_id": "专升本"
+    }
   ],
   "filter": {
     "搞笑": [
