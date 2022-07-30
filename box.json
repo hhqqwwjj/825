@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	"ext": "https://gitea.com/guozu616/box2/raw/branch/master/MaooXP/Bdys01.json"
+	"ext": "https://gitea.com/guozu616/box/raw/branch/master/MaooXP/Bdys01.json"
     },
     {
       "key": "神马影院",
@@ -136,7 +136,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/guozu616/box2/raw/branch/master/MaooXB2/555%E7%94%B5%E5%BD%B1.json"
+      "ext": "https://gitea.com/guozu616/box/raw/branch/master/MaooXB2/555%E7%94%B5%E5%BD%B1.json"
     },
     {
       "key": "剧白白",
@@ -146,7 +146,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/guozu616/box2/raw/branch/master/MaooXB2/%E5%89%A7%E7%99%BD%E7%99%BD-%E8%93%9D%E5%85%89.json"
+      "ext": "https://gitea.com/guozu616/box/raw/branch/master/MaooXB2/%E5%89%A7%E7%99%BD%E7%99%BD-%E8%93%9D%E5%85%89.json"
     },
     {
       "key": "Kuaikan",
@@ -192,7 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	"ext": "https://gitea.com/guozu616/box2/raw/branch/master/MaooXP/Bili.json"
+	"ext": "https://gitea.com/guozu616/box/raw/branch/master/MaooXP/Bili.json"
     },
     {
       "key": "Gitcafe",
@@ -242,7 +242,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gitea.com/guozu616/box2/raw/branch/master/tv/live.txt"
+            "proxy://do=live&type=txt&ext=https://gitea.com/guozu616/box/raw/branch/master/tv/live.txt"
           ]
         }
       ]
@@ -507,5 +507,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "http://ys-j.ysepan.com/621537420/713087603/n732N7U3II5LG6SLuWfGf8/custom_spider.jar"
+  "spider": "https://gitea.com/guozu616/box/raw/branch/master/jar/custom_spider.jar"
 }
