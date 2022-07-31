@@ -233,9 +233,8 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "ad3c78559a494bde814f1a6c8c40db51"
-    }，
-    {"key":"csp_biubiu_黑洞影视","name":"🥒黑洞影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/黑洞影视.json"}
-  ],
+    }
+   ],
   "lives": [
     {
       "group": "redirect",
