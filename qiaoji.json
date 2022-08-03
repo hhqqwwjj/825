@@ -1,6 +1,6 @@
 {
 	//微信公众号：巧技  qq频道：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=uDcBv&businessType=9&from=246610&biz=ka
-	"spider": "https://gitea.com/guozu616/box/raw/branch/master/jar/qiaoji0802.jar",
+	"spider": "https://gitea.com/guozu616/box/raw/branch/master/jar/qiaoji0803.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -1931,17 +1931,17 @@
 		"type": 2,
 		"url": "Sequence"
 	}, {
-		"name": "fuqi",
+		"name": "aiku",
 		"type": 1,
-		"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
+		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
 	}, {
 		"name": "盘古",
 		"type": 0,
 		"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
 	}, {
-		"name": "左岸",
+		"name": "江湖",
 		"type": 1,
-		"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
+		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 		"ext": {
 			"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],
 			"header": {
@@ -1949,18 +1949,21 @@
 			}
 		}
 	}, {
-		"name": "太空",
+		"name": "左岸",
 		"type": 1,
-		"url": "http://124.222.68.182/jiexi/4kJX.php/?url=",
+		"url": "http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua"]
 		}
 	}, {
-		"name": "未知",
+		"name": "keyu",
 		"type": 1,
-		"url": "http://106.52.218.221:88/?url=",
+		"url": "http://newjiexi.gotka.top/keyu3.php?url=",
 		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+			"header": {
+				"User-Agent": "okhttp/4.1.0"
+			}
 		}
 	}, {
 		"name": "随便1",
