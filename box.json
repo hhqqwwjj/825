@@ -278,6 +278,11 @@
       "url": "Sequence"
     },
     {
+      "name":"TG",
+      "type":0,
+      "url":"http://120.233.84.226:5612/tvjx/?url="
+    },
+    {
       "name":"普通",
       "type":0,
       "url":"https://jhpc.021huaying.com/api.php?url="
