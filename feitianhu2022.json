@@ -1,6 +1,6 @@
 {
 
-"spider":"https://cdn.staticaly.com/gh/feitianhu2022/TV/main/jar/xxoo804.jar;md5;0085cf644b3b135caadb8cbd4b3ed485",
+"spider":"https://gitea.com/guozu616/box/raw/branch/master/jar/xxoo804.jar;md5;0085cf644b3b135caadb8cbd4b3ed485",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
