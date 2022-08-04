@@ -224,16 +224,26 @@
       "filterable": 1,
       "ext": "ad3c78559a494bde814f1a6c8c40db51"
     },
-            {
-            "key": "csp_xpath_网络搜集库qiumi",
-            "name": "球迷(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://gitea.com/guozu616/box/raw/branch/master/MaooXB2/%E7%90%83%E8%BF%B7.json"
-        },
+    {
+      "key": "csp_xpath_网络搜集库qiumi",
+      "name": "球迷(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/guozu616/box/raw/branch/master/MaooXB2/%E7%90%83%E8%BF%B7.json"
+    },
+    {
+      "key": "csp_xpath_88kanqiu",
+      "name": "⚽88看球(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitea.com/guozu616/box/raw/branch/master/MaooXP/88kanqiu.json"
+    },
     {
       "key": "push_agent",
       "name": "推送",
