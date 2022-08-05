@@ -51,7 +51,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"
+      "ext": "https://gitea.com/guozu616/box/raw/branch/master/MaooXP/88kanqiu.json"
     },
     {
       "key": "csp_xpath_qiumi",
