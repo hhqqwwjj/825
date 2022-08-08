@@ -1,105 +1,49 @@
-{
-  "name": "dadagui",
-  "link": "https://www.dadagui.me",
-  "title": "达达龟",
-  "description": "",
-  "thumb": "",
-  "localImageResource": "",
-  "presenter": "Movie",
-  "openBrowser": "no",
-  "inword": ".m3u8,.mp4",
-  "uninword": "",
-  "next": "detail",
-  "category": [
-    {
-      "name": "电影",
-      "link": "https://www.dadagui.me/vodtype"
+[{
+    "name": "dadagui",
+    "title": "达达龟",
+    "link": "https://www.dadagui.me",
+    "description": "达达龟",
+    "localImageResource": "",
+    "presenter": "Movie",
+    "openBrowser": "no",
+    "inword":".m3u8,.mp4",
+    "uninword":"51.la,?v=,?url=,dplayer/v3",
+    "next":"detail",
+    "thumb":"https://www.naifei.org/mxstatic/picture/logo.png",
+     "category":[{'name': '电影', 'link': 'https://www.dadagui.me/vodtype'},{'name': '电视剧', 'link': 'https://www.naifei.org/vodshow/id/2/page'},{'name': '综艺', 'link': 'https://www.naifei.org/vodshow/id/3/page'},{'name': '动漫', 'link': 'https://www.naifei.org/vodshow/id/4/page'},{'name': '记录片', 'link': 'https://www.naifei.org/vodshow/id/5/page'},{'name': '电影解说', 'link': 'https://www.naifei.org/vodshow/id/6/page'}],
+    "list": {
+      "pagefilter":"",
+      "pagerule": "/#page.html",
+      "pageone": "/1.html",
+      "fetchtype":"default",
+      "pagesize": 8,
+      "useragent": "default",
+      "videoscontainer":{"selector":"div.stui-vodlist__box","attrName":"", "filter": "" },
+      "title":{"selector":"a","attrName":"title","filter": "" },
+      "thumb":{"selector":"a","attrName":"data-original","filter": "" },
+      "link":{"selector":"a","attrName":"href","filter": "" }
+    },
+    "detail": {
+      "useragent": "default",
+      "fetchtype":"default",
+      "videoscontainer":{"selector":"div.scroll-content a[title]:not(.tag-link)","attrName":"","filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "play": {
+      "useragent": "mobile",
+      "filter": "",
+      "player": "ijk"
+    },
+    "search": {
+      "useragent": "default",
+      "fetchtype":"default",
+      "pagerule": "",
+      "pageone": "",
+      "pagesize": 8,
+      "videoscontainer":{"selector":"h3.title a","attrName":"", "filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "thumb":{"selector":"","attrName":"data-original","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
     }
-  ],
-  "list": {
-    "pagefilter": "",
-    "pagerule": "#page.html",
-    "pageone": "/1.html",
-    "fetchtype": "default",
-    "pagesize": "8",
-    "useragent": "default",
-    "videoscontainer": {
-      "selector": "",
-      "attrName": "div.stui-vodlist__box",
-      "filter": ""
-    },
-    "title": {
-      "selector": "a",
-      "attrName": "title",
-      "filter": ""
-    },
-    "thumb": {
-      "selector": "a",
-      "attrName": "data-original",
-      "filter": ""
-    },
-    "link": {
-      "selector": "",
-      "attrName": "href",
-      "filter": ""
-    }
-  },
-  "detail": {
-    "useragent": "default",
-    "fetchtype": "default",
-    "onclick": "no",
-    "clickcontainer": {
-      "selector": "",
-      "attrName": "",
-      "filter": ""
-    },
-    "videoscontainer": {
-      "selector": "",
-      "attrName": "",
-      "filter": ""
-    },
-    "title": {
-      "selector": "",
-      "attrName": "title",
-      "filter": ""
-    },
-    "link": {
-      "selector": "",
-      "attrName": "href",
-      "filter": ""
-    }
-  },
-  "play": {
-    "useragent": "default",
-    "filter": "",
-    "player": "vlc"
-  },
-  "search": {
-    "pagefilter": "",
-    "pagerule": "",
-    "pageone": "",
-    "fetchtype": "default",
-    "pagesize": "8",
-    "useragent": "default",
-    "videoscontainer": {
-      "selector": "",
-      "attrName": "",
-      "filter": ""
-    },
-    "title": {
-      "selector": "",
-      "attrName": "title",
-      "filter": ""
-    },
-    "thumb": {
-      "selector": "",
-      "attrName": "data-original",
-      "filter": ""
-    },
-    "link": {
-      "selector": "",
-      "attrName": "href",
-      "filter": ""
-    }
-  }
-}
+  }]
