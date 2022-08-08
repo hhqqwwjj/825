@@ -1,0 +1,105 @@
+{
+  "name": "dadagui",
+  "link": "https://www.dadagui.me",
+  "title": "达达龟",
+  "description": "",
+  "thumb": "",
+  "localImageResource": "",
+  "presenter": "Movie",
+  "openBrowser": "no",
+  "inword": ".m3u8,.mp4",
+  "uninword": "",
+  "next": "detail",
+  "category": [
+    {
+      "name": "电影",
+      "link": "https://www.dadagui.me/vodtype"
+    }
+  ],
+  "list": {
+    "pagefilter": "",
+    "pagerule": "#page.html",
+    "pageone": "/1.html",
+    "fetchtype": "default",
+    "pagesize": "8",
+    "useragent": "default",
+    "videoscontainer": {
+      "selector": "",
+      "attrName": "div.stui-vodlist__box",
+      "filter": ""
+    },
+    "title": {
+      "selector": "a",
+      "attrName": "title",
+      "filter": ""
+    },
+    "thumb": {
+      "selector": "a",
+      "attrName": "data-original",
+      "filter": ""
+    },
+    "link": {
+      "selector": "",
+      "attrName": "href",
+      "filter": ""
+    }
+  },
+  "detail": {
+    "useragent": "default",
+    "fetchtype": "default",
+    "onclick": "no",
+    "clickcontainer": {
+      "selector": "",
+      "attrName": "",
+      "filter": ""
+    },
+    "videoscontainer": {
+      "selector": "",
+      "attrName": "",
+      "filter": ""
+    },
+    "title": {
+      "selector": "",
+      "attrName": "title",
+      "filter": ""
+    },
+    "link": {
+      "selector": "",
+      "attrName": "href",
+      "filter": ""
+    }
+  },
+  "play": {
+    "useragent": "default",
+    "filter": "",
+    "player": "vlc"
+  },
+  "search": {
+    "pagefilter": "",
+    "pagerule": "",
+    "pageone": "",
+    "fetchtype": "default",
+    "pagesize": "8",
+    "useragent": "default",
+    "videoscontainer": {
+      "selector": "",
+      "attrName": "",
+      "filter": ""
+    },
+    "title": {
+      "selector": "",
+      "attrName": "title",
+      "filter": ""
+    },
+    "thumb": {
+      "selector": "",
+      "attrName": "data-original",
+      "filter": ""
+    },
+    "link": {
+      "selector": "",
+      "attrName": "href",
+      "filter": ""
+    }
+  }
+}
