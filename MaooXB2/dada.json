@@ -20,7 +20,7 @@
       "useragent": "default",
       "videoscontainer":{"selector":"div.movie-item","attrName":"", "filter": "" },
       "title":{"selector":"a","attrName":"title","filter": "" },
-      "thumb":{"selector":"a","attrName":"src","filter": "" },
+      "thumb":{"selector":"img","attrName":"src","filter": "" },
       "link":{"selector":"a","attrName":"href","filter": "" }
     },
     "detail": {
