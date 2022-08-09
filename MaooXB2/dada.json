@@ -26,7 +26,7 @@
     "detail": {
       "useragent": "default",
       "fetchtype":"default",
-      "videoscontainer":{"selector":"div.col-md-4 a[style]","attrName":"","filter": "" },
+      "videoscontainer":{"selector":"div.col-md-12 a[href]","attrName":"","filter": "" },
       "title":{"selector":"","attrName":"text","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     },
