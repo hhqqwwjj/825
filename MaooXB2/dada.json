@@ -20,8 +20,8 @@
       "useragent": "default",
       "videoscontainer":{"selector":"div.movie-item","attrName":"", "filter": "" },
       "title":{"selector":"a","attrName":"title","filter": "" },
-      "thumb":{"selector":"a","attrName":"data-original","filter": "" },
-      "link":{"selector":"a","attrName":"src","filter": "" }
+      "thumb":{"selector":"a","attrName":"src","filter": "" },
+      "link":{"selector":"a","attrName":"href","filter": "" }
     },
     "detail": {
       "useragent": "default",
