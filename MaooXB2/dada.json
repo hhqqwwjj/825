@@ -38,7 +38,7 @@
     "search": {
       "useragent": "default",
       "fetchtype":"default",
-      "pagerule": "",
+      "pagerule": "https://www.jiujiukanpian.com/s/#msearchword/#mpageno.html",
       "pageone": "",
       "pagesize": 8,
       "videoscontainer":{"selector":"h3.title a","attrName":"", "filter": "" },
