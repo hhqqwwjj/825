@@ -70,7 +70,7 @@
     "list": {
       "pagefilter":"",
       "pagerule": "/#page",
-      "pageone": "/1",
+      "pageone": "/1.html",
       "fetchtype":"default",
       "pagesize": 8,
       "useragent": "default",
