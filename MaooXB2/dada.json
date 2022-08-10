@@ -53,5 +53,55 @@
       "thumb":{"selector":"","attrName":"data-original","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     }
+  },
+  {
+    "name": "laodouban",
+    "title": "老豆瓣",
+    "link": "https://www.libvio.me",
+    "description": "老豆瓣 - 影视云擎",
+    "localImageResource": "",
+    "presenter": "Movie",
+    "openBrowser": "no",
+    "inword":".m3u8,.mp4",
+    "uninword":"",
+    "next":"detail",
+    "thumb":"https://s1.ax1x.com/2020/05/08/YukFhV.png",
+    "category":[{"name": "电影", "link": "https://www.libvio.me/type"}, {"name": "连续剧", "link": "https://www.laodouban.com/dianshiju"}, {"name": "综艺", "link": "https://www.laodouban.com/zongyi"}, {"name": "动漫", "link": "https://www.laodouban.com/dongman"}],
+    "list": {
+      "pagefilter":"",
+      "pagerule": "/#page",
+      "pageone": "/1",
+      "fetchtype":"default",
+      "pagesize": 8,
+      "useragent": "default",
+      "videoscontainer":{"selector":"div.stui-vodlist__box","attrName":"", "filter": "" },
+      "title":{"selector":"a","attrName":"title","filter": "" },
+      "thumb":{"selector":"img","attrName":"data-original","filter": "" },
+      "link":{"selector":"a","attrName":"href","filter": "" }
+    },
+    "detail": {
+      "useragent": "default",
+      "fetchtype":"browser",
+      "onclick": "yes",
+      "videoscontainer":{"selector":"li.dslist-group-item a","attrName":"","filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "play": {
+      "useragent": "mobile",
+      "filter": "",
+      "player": "ijk"
+    },
+    "search": {
+      "useragent": "default",
+      "fetchtype":"default",
+      "pagerule": "https://www.libvio.me/search/#msearchword----------#mpageno---.html",
+      "pageone": "",
+      "pagesize": 8,
+     "videoscontainer":{"selector":"h3.title a","attrName":"", "filter": "" },
+      "title":{"selector":"","attrName":"title","filter": "" },
+      "thumb":{"selector":"","attrName":"data-original","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    }
   }
 ]
