@@ -55,18 +55,18 @@
     }
   },
   {
-    "name": "laodouban",
-    "title": "老豆瓣",
-    "link": "https://www.libvio.me",
-    "description": "老豆瓣 - 影视云擎",
+    "name": "jiujiukanpian",
+    "title": "久久影视网",
+    "link": "https://www.jiujiukanpian.com",
+    "description": "久久影视网",
     "localImageResource": "",
     "presenter": "Movie",
     "openBrowser": "no",
     "inword":".m3u8,.mp4",
-    "uninword":"",
+    "uninword":"51.la,?v=,?url=,dplayer/v3",
     "next":"detail",
-    "thumb":"https://s1.ax1x.com/2020/05/08/YukFhV.png",
-    "category":[{"name": "电影", "link": "https://www.libvio.me/type"}, {"name": "连续剧", "link": "https://www.laodouban.com/dianshiju"}, {"name": "综艺", "link": "https://www.laodouban.com/zongyi"}, {"name": "动漫", "link": "https://www.laodouban.com/dongman"}],
+    "thumb":"https://www.naifei.org/mxstatic/picture/logo.png",
+     "category":[{'name': '热门电影', 'link': 'https://www.jiujiukanpian.com/type'},{'name': '电视剧', 'link': 'https://www.naifei.org/vodshow/id/2/page'},{'name': '综艺', 'link': 'https://www.naifei.org/vodshow/id/3/page'},{'name': '动漫', 'link': 'https://www.naifei.org/vodshow/id/4/page'},{'name': '记录片', 'link': 'https://www.naifei.org/vodshow/id/5/page'},{'name': '电影解说', 'link': 'https://www.naifei.org/vodshow/id/6/page'}],
     "list": {
       "pagefilter":"",
       "pagerule": "/#page.html",
@@ -74,9 +74,9 @@
       "fetchtype":"default",
       "pagesize": 8,
       "useragent": "default",
-      "videoscontainer":{"selector":"div.stui-vodlist__box","attrName":"", "filter": "" },
+      "videoscontainer":{"selector":"div.movie-item","attrName":"", "filter": "" },
       "title":{"selector":"a","attrName":"title","filter": "" },
-      "thumb":{"selector":"img","attrName":"data-original","filter": "" },
+      "thumb":{"selector":"img","attrName":"src","filter": "" },
       "link":{"selector":"a","attrName":"href","filter": "" }
     },
     "detail": {
