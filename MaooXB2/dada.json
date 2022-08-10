@@ -83,8 +83,8 @@
       "useragent": "default",
       "fetchtype":"browser",
       "onclick": "yes",
-      "videoscontainer":{"selector":"div.stui-vodlist__head ul","attrName":"","filter": "" },
-      "title":{"selector":"","attrName":"","filter": "" },
+      "videoscontainer":{"selector":"ul.stui-content__playlist.clearfix","attrName":"","filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     },
     "play": {
