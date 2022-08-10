@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "libvio",
     "title": "LIBVIO",
     "link": "https://www.libvio.me",
@@ -46,4 +47,5 @@
       "thumb":{"selector":"","attrName":"data-original","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     }
-  }]
+  }
+]
