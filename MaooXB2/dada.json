@@ -83,7 +83,7 @@
       "useragent": "default",
       "fetchtype":"browser",
       "onclick": "yes",
-      "videoscontainer":{"selector":"li.dslist-group-item a","attrName":"","filter": "" },
+      "videoscontainer":{"selector":"div.stui-vodlist__head ul","attrName":"","filter": "" },
       "title":{"selector":"","attrName":"text","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     },
