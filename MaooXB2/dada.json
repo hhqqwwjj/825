@@ -1,4 +1,52 @@
-[
+[{
+    "name": "jiujiukanpian",
+    "title": "久久影视网",
+    "link": "https://www.jiujiukanpian.com",
+    "description": "久久影视网",
+    "localImageResource": "",
+    "presenter": "Movie",
+    "openBrowser": "no",
+    "inword":".m3u8,.mp4",
+    "uninword":"51.la,?v=,?url=,dplayer/v3",
+    "next":"detail",
+    "thumb":"https://www.naifei.org/mxstatic/picture/logo.png",
+     "category":[{'name': '热门电影', 'link': 'https://www.jiujiukanpian.com/type'},{'name': '电视剧', 'link': 'https://www.naifei.org/vodshow/id/2/page'},{'name': '综艺', 'link': 'https://www.naifei.org/vodshow/id/3/page'},{'name': '动漫', 'link': 'https://www.naifei.org/vodshow/id/4/page'},{'name': '记录片', 'link': 'https://www.naifei.org/vodshow/id/5/page'},{'name': '电影解说', 'link': 'https://www.naifei.org/vodshow/id/6/page'}],
+    "list": {
+      "pagefilter":"",
+      "pagerule": "/#page.html",
+      "pageone": "/1.html",
+      "fetchtype":"default",
+      "pagesize": 8,
+      "useragent": "default",
+      "videoscontainer":{"selector":"div.movie-item","attrName":"", "filter": "" },
+      "title":{"selector":"a","attrName":"title","filter": "" },
+      "thumb":{"selector":"img","attrName":"src","filter": "" },
+      "link":{"selector":"a","attrName":"href","filter": "" }
+    },
+    "detail": {
+      "useragent": "default",
+      "fetchtype":"default",
+      "videoscontainer":{"selector":"li.dslist-group-item a","attrName":"","filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "play": {
+      "useragent": "mobile",
+      "filter": "",
+      "player": "ijk"
+    },
+    "search": {
+      "useragent": "default",
+      "fetchtype":"default",
+      "pagerule": "https://www.jiujiukanpian.com/s/#msearchword/#mpageno.html",
+      "pageone": "",
+      "pagesize": 8,
+      "videoscontainer":{"selector":"h3.title a","attrName":"", "filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "thumb":{"selector":"","attrName":"data-original","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    }
+  },
   {
     "name": "libvio",
     "title": "LIBVIO",
@@ -47,5 +95,4 @@
       "thumb":{"selector":"","attrName":"data-original","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     }
-  }
-]
+  }]
