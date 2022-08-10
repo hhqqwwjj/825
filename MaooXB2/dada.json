@@ -57,7 +57,7 @@
   {
     "name": "jiujiukanpian",
     "title": "久久影视网",
-    "link": "https://www.jiujiukanpian.com",
+    "link": "https://www.libvio.me",
     "description": "久久影视网",
     "localImageResource": "",
     "presenter": "Movie",
@@ -66,7 +66,7 @@
     "uninword":"51.la,?v=,?url=,dplayer/v3",
     "next":"detail",
     "thumb":"https://www.naifei.org/mxstatic/picture/logo.png",
-     "category":[{'name': '热门电影', 'link': 'https://www.jiujiukanpian.com/type'},{'name': '电视剧', 'link': 'https://www.naifei.org/vodshow/id/2/page'},{'name': '综艺', 'link': 'https://www.naifei.org/vodshow/id/3/page'},{'name': '动漫', 'link': 'https://www.naifei.org/vodshow/id/4/page'},{'name': '记录片', 'link': 'https://www.naifei.org/vodshow/id/5/page'},{'name': '电影解说', 'link': 'https://www.naifei.org/vodshow/id/6/page'}],
+     "category":[{'name': '电影', 'link': 'https://www.libvio.me/type'},{'name': '电视剧', 'link': 'https://www.naifei.org/vodshow/id/2/page'},{'name': '综艺', 'link': 'https://www.naifei.org/vodshow/id/3/page'},{'name': '动漫', 'link': 'https://www.naifei.org/vodshow/id/4/page'},{'name': '记录片', 'link': 'https://www.naifei.org/vodshow/id/5/page'},{'name': '电影解说', 'link': 'https://www.naifei.org/vodshow/id/6/page'}],
     "list": {
       "pagefilter":"",
       "pagerule": "/#page.html",
