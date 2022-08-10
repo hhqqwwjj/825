@@ -76,7 +76,7 @@
       "useragent": "default",
       "videoscontainer":{"selector":"div.stui-vodlist__box","attrName":"", "filter": "" },
       "title":{"selector":"a","attrName":"title","filter": "" },
-      "thumb":{"selector":"img","attrName":"src","filter": "" },
+      "thumb":{"selector":"a","attrName":"data-original","filter": "" },
       "link":{"selector":"a","attrName":"href","filter": "" }
     },
     "detail": {
