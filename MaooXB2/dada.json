@@ -46,4 +46,53 @@
       "thumb":{"selector":"","attrName":"data-original","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     }
+  },
+  {
+    "name": "libvio",
+    "title": "LIBVIO",
+    "link": "https://www.libvio.me",
+    "description": "LIBVIO",
+    "localImageResource": "",
+    "presenter": "Movie",
+    "openBrowser": "no",
+    "inword":".m3u8,.mp4",
+    "uninword":"51.la,?v=,?url=,dplayer/v3",
+    "next":"detail",
+    "thumb":"https://www.naifei.org/mxstatic/picture/logo.png",
+     "category":[{'name': '电影', 'link': 'https://www.libvio.me/type'},{'name': '电视剧', 'link': 'https://www.naifei.org/vodshow/id/2/page'},{'name': '综艺', 'link': 'https://www.naifei.org/vodshow/id/3/page'},{'name': '动漫', 'link': 'https://www.naifei.org/vodshow/id/4/page'},{'name': '记录片', 'link': 'https://www.naifei.org/vodshow/id/5/page'},{'name': '电影解说', 'link': 'https://www.naifei.org/vodshow/id/6/page'}],
+    "list": {
+      "pagefilter":"",
+      "pagerule": "/#page.html",
+      "pageone": "/1.html",
+      "fetchtype":"default",
+      "pagesize": 8,
+      "useragent": "default",
+      "videoscontainer":{"selector":"div.stui-vodlist__box":"", "filter": "" },
+      "title":{"selector":"a","attrName":"title","filter": "" },              //视频标题
+      "thumb":{"selector":"img","attrName":"data-original","filter": "" },    //缩略图
+      "link":{"selector":"a","attrName":"href","filter": "" }                 //视频链接
+    },
+    "detail": {
+      "useragent": "default",
+      "fetchtype":"default",
+      "videoscontainer":{"selector":"li.dslist-group-item a","attrName":"","filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    },
+    "play": {
+      "useragent": "mobile",
+      "filter": "",
+      "player": "ijk"
+    },
+    "search": {
+      "useragent": "default",
+      "fetchtype":"default",
+      "pagerule": "https://www.libvio.me/search/#msearchword----------#mpageno---.html",
+      "pageone": "",
+      "pagesize": 8,
+      "videoscontainer":{"selector":"h3.title a","attrName":"", "filter": "" },
+      "title":{"selector":"","attrName":"text","filter": "" },
+      "thumb":{"selector":"","attrName":"data-original","filter": "" },
+      "link":{"selector":"","attrName":"href","filter": "" }
+    }
   }]
