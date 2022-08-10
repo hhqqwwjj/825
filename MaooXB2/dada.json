@@ -46,8 +46,7 @@
       "thumb":{"selector":"","attrName":"data-original","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     }
-  },
-  {
+  },{
     "name": "libvio",
     "title": "LIBVIO",
     "link": "https://www.libvio.me",
@@ -68,9 +67,9 @@
       "pagesize": 8,
       "useragent": "default",
       "videoscontainer":{"selector":"div.stui-vodlist__box":"", "filter": "" },
-      "title":{"selector":"a","attrName":"title","filter": "" },              //视频标题
-      "thumb":{"selector":"img","attrName":"data-original","filter": "" },    //缩略图
-      "link":{"selector":"a","attrName":"href","filter": "" }                 //视频链接
+      "title":{"selector":"a","attrName":"title","filter": "" }, 
+      "thumb":{"selector":"img","attrName":"data-original","filter": "" }, 
+      "link":{"selector":"a","attrName":"href","filter": "" } 
     },
     "detail": {
       "useragent": "default",
