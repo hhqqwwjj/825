@@ -84,7 +84,7 @@
       "fetchtype":"browser",
       "onclick": "yes",
       "videoscontainer":{"selector":"div.stui-vodlist__head ul","attrName":"","filter": "" },
-      "title":{"selector":"","attrName":"text","filter": "" },
+      "title":{"selector":"","attrName":"","filter": "" },
       "link":{"selector":"","attrName":"href","filter": "" }
     },
     "play": {
