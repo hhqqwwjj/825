@@ -69,7 +69,7 @@
     "category":[{"name": "电影", "link": "https://www.libvio.me/type"}, {"name": "连续剧", "link": "https://www.laodouban.com/dianshiju"}, {"name": "综艺", "link": "https://www.laodouban.com/zongyi"}, {"name": "动漫", "link": "https://www.laodouban.com/dongman"}],
     "list": {
       "pagefilter":"",
-      "pagerule": "/#page",
+      "pagerule": "/#page.html",
       "pageone": "/1.html",
       "fetchtype":"default",
       "pagesize": 8,
