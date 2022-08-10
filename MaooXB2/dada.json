@@ -74,7 +74,7 @@
       "fetchtype":"default",
       "pagesize": 8,
       "useragent": "default",
-      "videoscontainer":{"selector":"div.movie-item","attrName":"", "filter": "" },
+      "videoscontainer":{"selector":"div.stui-vodlist__box","attrName":"", "filter": "" },
       "title":{"selector":"a","attrName":"title","filter": "" },
       "thumb":{"selector":"img","attrName":"src","filter": "" },
       "link":{"selector":"a","attrName":"href","filter": "" }
