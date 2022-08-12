@@ -617,7 +617,8 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/lezhutv.json"
-	}， {"key":"csp_biubiu_AB影院","name":"AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/guozu616/box/raw/branch/master/MaooXB2/AB%E5%BD%B1%E9%99%A2"},
+	}， 
+	{"key":"csp_biubiu_AB影院","name":"AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/guozu616/box/raw/branch/master/MaooXB2/AB%E5%BD%B1%E9%99%A2"},
 	],
 	"parses": [{
 		"name": "解析聚合",
