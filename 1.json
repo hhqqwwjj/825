@@ -36,7 +36,7 @@
 		"ext": "dcbc975ad0684eb5a498ecd1836272e6"
 	}, 
 	 {"key":"csp_biubiu_ET足球网","name":"ET足球网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/guozu616/box/raw/branch/master/MaooXB2/et.json"},
-	 {"key":"csp_biubiu_九九影视","name":"九九影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/guozu616/box/raw/branch/master/MaooXB2/99.json"},
+	 {"key":"csp_biubiu_AB影院","name":"AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/guozu616/box/raw/branch/master/MaooXB2/AB%E5%BD%B1%E9%99%A2"},
 	 {
 		"key": "push_agent",
 		"name": "🐞推送",
