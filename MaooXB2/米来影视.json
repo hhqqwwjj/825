@@ -2,7 +2,7 @@
     "name": "米来影视",
     "url": "http://www.qdytv.com/",
     "User": "User-Agentart/2.14 (dart:io)",
-    "fenlei": "电影$/vodtype/1#电视剧$/vodtype/2#综艺$/vodtype/3#动漫$/vodtype/4#纪录片$/vodtype/5",
+    "fenlei": "电影$/show/id/1#电视剧$/show/id/2#综艺$/show/id/3#动漫$/show/id/4#纪录片$/show/id/5",
     "houzhui": ".html",
     "shifouercijiequ": "0",
     "jiequqian": "空",
