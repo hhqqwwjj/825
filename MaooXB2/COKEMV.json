@@ -20,11 +20,6 @@
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
 
-  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
-  "fubiaotiqian": "note\">",
-  "fubiaotihou": "</div>",
-
-
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/voddetail/",
@@ -50,22 +45,22 @@
   "bfjiequshuzuqian": "class=\"module-list",
   "bfjiequshuzuhou": "</div>",
 
-  "zhuangtaiqian": "更新：</span>",
+  "zhuangtaiqian": "更新：",
   "zhuangtaihou": "</div>",
   "daoyanqian": "导演：",
   "daoyanhou": "</div>",
   "zhuyanqian": "主演：",
   "zhuyanhou": "</div>",
-  "juqingqian": "<p>",
-  "juqinghou": "</p>",
+  "juqingqian": "简介：",
+  "juqinghou": "/div>",
 
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
-  "bfbiaotiqian": "span>",
-  "bfbiaotihou": "</span",
+  "bfbiaotiqian": "<span>",
+  "bfbiaotihou": "</span>",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 }
